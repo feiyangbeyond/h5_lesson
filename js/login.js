@@ -1,3 +1,11 @@
+/*
+ * @Author: Guo Feiyang
+ * @LastEditors: Guo Feiyang
+ * @Description: 
+ * @Date: 2019-06-17 00:47:01
+ * @LastEditTime: 2019-06-24 23:12:16
+ */
+
 var btn = document.getElementsByTagName('button')[0]
 btn.onclick = function(event){
     //阻止行为

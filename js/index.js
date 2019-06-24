@@ -1,3 +1,11 @@
+/*
+ * @Author: Guo Feiyang
+ * @LastEditors: Guo Feiyang
+ * @Description: 
+ * @Date: 2019-06-16 21:17:45
+ * @LastEditTime: 2019-06-24 23:12:06
+ */
+
 $(document).ready(function () {
 
     /* 轮播图开始 */
