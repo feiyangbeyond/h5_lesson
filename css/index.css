@@ -3,7 +3,7 @@
  * @LastEditors: Guo Feiyang
  * @Description: 
  * @Date: 2019-06-15 21:38:46
- * @LastEditTime: 2019-06-24 23:13:50
+ * @LastEditTime: 2019-06-24 23:19:55
  */
 
 /* ============= 顶部 ============= */
@@ -440,13 +440,16 @@ em{
 /* ============ 下载游戏结束 ============ */
 
 /* ============ 狄仁杰护卫站开始 ============ */
+.tiyan_btn:hover+.guard-div{
+    display: block;
+}
+
 .guard-div{
-    /* display: none; */
+    display: none;
     position: relative;
     float: left;
     color: #fff;
     left: 236px;
-    
 
 }
 
