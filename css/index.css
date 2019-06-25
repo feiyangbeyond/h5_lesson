@@ -3,7 +3,7 @@
  * @LastEditors: Guo Feiyang
  * @Description: 
  * @Date: 2019-06-15 21:38:46
- * @LastEditTime: 2019-06-24 23:19:55
+ * @LastEditTime: 2019-06-25 12:29:49
  */
 
 /* ============= 顶部 ============= */
@@ -31,7 +31,7 @@
     /* left: 370px; */
     top: 16px;
     z-index: 100;
-    background-image: url(../images/logo.png);
+    background-image: url(//cdn.tsxygfy.cn/logo.png);
     width: 200px;
     height: 54px;
     text-indent: -999px;
@@ -146,7 +146,7 @@ ul, ol{
     min-width: 1280px;
 }
 .bg{
-    background: url(../images/libai.png);
+    background: url(//cdn.tsxygfy.cn/libai.png);
     overflow: hidden;
     position: absolute;
     left: 0;
@@ -418,7 +418,7 @@ em{
     background-position: 0 -240px;
 }
 .download_btn, .guard_btn, .tiyan_btn{
-    background-image: url(../images/index.png);
+    background-image: url(//cdn.tsxygfy.cn/index.png);
     display: inline-block;
 }
 .quick_entrance {

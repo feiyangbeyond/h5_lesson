@@ -1,8 +1,8 @@
 # 王者荣耀官网仿制
 
-HTML5 + css + js 只是实现了轮播悬浮等动画，交作业
+![](<https://img.shields.io/badge/auth-feiyang-green.svg>)
 
-开箱即用
+HTML5 + css + js 只是实现了轮播悬浮等动画，交作业
 
 [你可以在这里预览]: https://feiyangbeyond.github.io/wzry/index.html
 
